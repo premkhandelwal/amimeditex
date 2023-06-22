@@ -1,0 +1,15 @@
+/* About.css */
+.container {
+    margin-top: 500px; /* Adjust the value as desired */
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  .container p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    /* Add any other desired styles */
+  }
+
+  
+  
